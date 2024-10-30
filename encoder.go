@@ -12,7 +12,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/badgifter/eos-go/ecc"
 	"go.uber.org/zap"
 )
 

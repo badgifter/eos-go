@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/eoscanada/eos-go/p2p"
+	"github.com/badgifter/eos-go/p2p"
 	"github.com/streamingfast/logging"
 	"go.uber.org/zap/zapcore"
 )

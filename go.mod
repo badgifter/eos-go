@@ -1,4 +1,4 @@
-module github.com/eoscanada/eos-go
+module github.com/badgifter/eos-go
 
 go 1.22
 

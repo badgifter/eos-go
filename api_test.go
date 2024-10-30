@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	mockserver "github.com/eoscanada/eos-go/testdata/mock_server"
+	mockserver "github.com/badgifter/eos-go/testdata/mock_server"
 	"github.com/stretchr/testify/assert"
 )
 

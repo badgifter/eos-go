@@ -1,7 +1,7 @@
 package system
 
 import (
-	"github.com/eoscanada/eos-go"
+	"github.com/badgifter/eos-go"
 )
 
 func NewActivateFeature(featureDigest eos.Checksum256) *eos.Action {

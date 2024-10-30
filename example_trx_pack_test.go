@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/badgifter/eos-go"
 )
 
 func ExamplePackedTransaction_Pack() {

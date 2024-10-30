@@ -7,7 +7,7 @@ import (
 	"go.uber.org/zap"
 )
 
-var zlog, tracer = logging.PackageLogger("eos-go", "github.com/eoscanada/eos-go")
+var zlog, tracer = logging.PackageLogger("eos-go", "github.com/badgifter/eos-go")
 
 type logStringerFunc func() string
 

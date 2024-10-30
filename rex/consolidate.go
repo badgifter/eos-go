@@ -1,7 +1,7 @@
 package rex
 
 import (
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/badgifter/eos-go"
 )
 
 func NewConsolidate(owner eos.AccountName) *eos.Action {
